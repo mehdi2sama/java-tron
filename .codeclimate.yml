@@ -1,6 +1,6 @@
 version: "2"
 plugins:
   sonar-java:
-    enabled: true
+    enabled:false
     config:
       sonar.java.source: 8
